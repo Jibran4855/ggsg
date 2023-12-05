@@ -6419,7 +6419,13 @@ img.mfp-img {
   border-radius: 3px;
 }
 
-
+.contact-img-pic{
+max-width: 100%;
+/* aspect-ratio: 3/4; */
+max-height: 100%;
+object-fit: contain;
+margin-top: 50px;
+}
 /* Blogs */
 .blog-slider .post {
   margin: 20px 0;
