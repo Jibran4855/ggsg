@@ -1086,6 +1086,7 @@
 
 	}
 	.form-card{
+	aspect-ratio: 3.5/4 !important;
 	width: 90% !important;
     margin-left: 5% !important;
     margin-right: 5% !important;
